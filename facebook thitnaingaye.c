@@ -68,7 +68,7 @@ http://136.243.177.164/BNT3/playlist.m3u8
 http://136.243.177.164/BNT4/playlist.m3u8
 #EXTINF:0 group-title="VIP",NOVA TV
 http://136.243.177.164/NOVATV/playlist.m3u8
-#EXTINF:0 group-title="VIP",NOVA SPORT
+#EXTINF:0 group-title="SP",NOVA SPORT
 http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:0 group-title="VIP",KINO NOVA
 http://136.243.177.164/KINONOVA/playlist.m3u8
@@ -87,17 +87,17 @@ http://136.243.177.164/BTVLADY/playlist.m3u8
 http://136.243.177.164/DIEMA/playlist.m3u8
 #EXTINF:0 group-title="VIP",DIEMA FAMILY
 http://136.243.177.164/DIEMAFAMILY/playlist.m3u8
-#EXTINF:0 group-title="VIP",DIEMA SPORT HD
+#EXTINF:0 group-title="SP",DIEMA SPORT HD
 http://136.243.177.164/DIEMASPORT/playlist.m3u8
-#EXTINF:0 group-title="VIP",DIEMA SPORT 2 HD
+#EXTINF:0 group-title="SP",DIEMA SPORT 2 HD
 http://136.243.177.164/DIEMASPORT2/playlist.m3u8
-#EXTINF:0 group-title="VIP",MAX SPORT 1 HD
+#EXTINF:0 group-title="SP",MAX SPORT 1 HD
 http://136.243.177.164/MAXSPORT1/playlist.m3u8
-#EXTINF:0 group-title="VIP",MAX SPORT 2 HD
+#EXTINF:0 group-title="SP",MAX SPORT 2 HD
 http://136.243.177.164/MAXSPORT2/playlist.m3u8
-#EXTINF:0 group-title="VIP",MAX SPORT 3 HD
+#EXTINF:0 group-title="SP",MAX SPORT 3 HD
 http://136.243.177.164/MAXSPORT3/playlist.m3u8
-#EXTINF:0 group-title="VIP",MAX SPORT 4 HD
+#EXTINF:0 group-title="SP",MAX SPORT 4 HD
 http://136.243.177.164/MAXSPORT4/playlist.m3u8
 #EXTINF:0 group-title="VIP",RING HD
 http://136.243.177.164/RINGBG/playlist.m3u8
@@ -168,14 +168,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="China",CCTV 2
-http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
-#EXTINF:0 group-title="China",CCTV 17
-http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
-#EXTINF:0 group-title="China",CCTV 15
-http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
-#EXTINF:0 group-title="China",CGTN
-http://220.158.149.14:9999/live/TV00000000000000000016@HHZT;LIVE
+
 
 #EXTINF:-1 group-title="KIDS",CARTOON
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
@@ -403,23 +396,23 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133279
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133278
 #EXTINF:-1 group-title="test",Calcio 24 Napoli HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133277
-#EXTINF:-1 group-title="test",Super Tenis HD IT
+#EXTINF:-1 group-title="SP",Super Tenis HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133237
-#EXTINF:-1 group-title="test",RAI SPORT + HD IT
+#EXTINF:-1 group-title="SP",RAI SPORT + HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4951
-#EXTINF:-1 group-title="test",RAI SPORT + FHD IT
+#EXTINF:-1 group-title="SP",RAI SPORT + FHD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133371
-#EXTINF:-1 group-title="test",EUROSPORT 1 HD IT
+#EXTINF:-1 group-title="SP",EUROSPORT 1 HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4913
-#EXTINF:-1 group-title="test",EUROSPORT 2 HD IT
+#EXTINF:-1 group-title="SP",EUROSPORT 2 HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133231
-#EXTINF:-1 group-title="test",Sky Sport 24 HD IT
+#EXTINF:-1 group-title="SP",Sky Sport 24 HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133217
-#EXTINF:-1 group-title="test",Sky Sport NBA HD IT
+#EXTINF:-1 group-title="SP",Sky Sport NBA HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133238
-#EXTINF:-1 group-title="test",Sky Sport Uno FHD IT
+#EXTINF:-1 group-title="SP",Sky Sport Uno FHD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23703
-#EXTINF:-1 group-title="test",Sky Sport Football FHD IT
+#EXTINF:-1 group-title="SP",Sky Sport Football FHD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23704
 #EXTINF:-1 group-title="test",Sky SuperCalcio serie A HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133224
@@ -686,13 +679,13 @@ http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10370
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10371
 #EXTINF:-1 group-title="Dec",[MY] FOX SPORTS 3 HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372
-#EXTINF:-1 group-title="Dec",[MY] beIN SPORTS
+#EXTINF:-1 group-title="SP",[MY] beIN SPORTS
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10373
-#EXTINF:-1 group-title="Dec",[MY] bEIN MAX
+#EXTINF:-1 group-title="SP",[MY] bEIN MAX
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10374
-#EXTINF:-1 group-title="S",[MY] EUROSPORT HD
+#EXTINF:-1 group-title="SP",[MY] EUROSPORT HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10375
-#EXTINF:-1 group-title="Dec",[MY] WWE NETWORK
+#EXTINF:-1 group-title="SP",[MY] WWE NETWORK
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10376
 #EXTINF:-1 group-title="Dec",[MY] GOLF CHANNEL HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10377
@@ -764,7 +757,7 @@ http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11973
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11974
 #EXTINF:-1 group-title="Dec",[MY] NatGeo Asia HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11975
-#EXTINF:-1 group-title="Dec",[MY] RTM Sports
+#EXTINF:-1 group-title="SP",[MY] RTM Sports
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11977
 #EXTINF:-1 group-title="Dec",[MY] Now Jelli
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11978
