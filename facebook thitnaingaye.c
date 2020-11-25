@@ -139,7 +139,7 @@ http://136.243.177.164/IDXTRA/playlist.m3u8
 http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:0 group-title="Cartoon",CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:0 group-title="VIP",NICKELODEON
+#EXTINF:0 group-title="Cartoon",NICKELODEON
 http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:0 group-title="VIP",THE VOICE
 http://136.243.177.164/THEVOICE/playlist.m3u8
@@ -182,7 +182,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Cartoon",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
-#EXTINF:-1  group-title="Cartoon",ကားတ္န်း Network
+#EXTINF:-1  group-title="Cartoon",ကားတ္န်းNetwork
 https://d3b9mm4o9vuo42.cloudfront.net//live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1  group-title="Cartoon",နက်elodeon
