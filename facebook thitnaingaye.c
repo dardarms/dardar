@@ -137,7 +137,7 @@ http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
 http://136.243.177.164/IDXTRA/playlist.m3u8
 #EXTINF:0 group-title="VIP",24 KITCHEN HD
 http://136.243.177.164/24KITCHEN/playlist.m3u8
-#EXTINF:0 group-title="VIP",CARTOON NETWORK
+#EXTINF:0 group-title="Cartoon",CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:0 group-title="VIP",NICKELODEON
 http://136.243.177.164/NICKELODEON/playlist.m3u8
@@ -167,19 +167,38 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1  group-title="ဖျော်ဖြေရေး" ,Cinemax MM
+https://d3b9mm4o9vuo42.cloudfront.net/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="KIDS",CARTOON
+#EXTINF:-1 group-title="Cartoon",CARTOON
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Animax
+#EXTINF:-1 group-title="Cartoon",Animax
 http://210.210.155.35/session/af894b98-2aa3-11eb-b26c-8dedb77816cc/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="KIDS",PBS KID
+#EXTINF:-1 group-title="Cartoon",PBS KID
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
-#EXTINF:-1 group-title="KIDS",3ABN KIDS TV 
+#EXTINF:-1 group-title="Cartoon",3ABN KIDS TV 
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 group-title="Cartoon",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
+#EXTINF:-1  group-title="Cartoon",Cartoon Network MM
+https://d3b9mm4o9vuo42.cloudfront.net//live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1  group-title="Cartoon",Nickelodeon MM
+https://df2rtcuwip1h0.cloudfront.net//live/54d06d1f-43a1-4095-ac3d-286d6ba510c1/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1  group-title="Cartoon",DreamWorks TV
+https://d3b9mm4o9vuo42.cloudfront.net/live/574586ab-d006-4794-a04f-2d89a12049c2/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1  group-title="Cartoon",Boomerang
+https://d3b9mm4o9vuo42.cloudfront.net//live/e39f1b59-d221-45fe-ab89-e6856ee5c31c/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1  group-title="Cartoon",CBeebies
+https://d15yubay3yee43.cloudfront.net//live/55dd1535-d7e2-4658-9c0e-d8a52149ebd0/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1  group-title="Cartoon",Baby TV
+https://d15yubay3yee43.cloudfront.net/live/c0fca3c0-a4f0-496a-862a-ab708218c2ec/prod/gidlean/progress-playlist.m3u8
 
 
 
@@ -268,7 +287,7 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4904
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133240
 #EXTINF:-1 group-title="test",RSI LA 2 HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133241
-#EXTINF:-1 group-title="test",Cartoonito HD IT
+#EXTINF:-1 group-title="Cartoon",Cartoonito HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/128607
 #EXTINF:-1 group-title="test",Disney Channel HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133232
@@ -839,6 +858,7 @@ https://s2.radio.co/s969e6c4b7/listen
 
 #EXTINF:-1 tvg-logo="https://iili.io/3QnIja.png" group-title="Music",Dance TV
 http://v2.catcast.me/content/37311/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/3W5g9e.png" group-title="Music",MTV Music
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
@@ -1991,169 +2011,41 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
 
 
-#EXTINF:-group-title="BINGE BD",Anondo Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_probashibanglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Asian Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_asian_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Atn Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_atn_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Bangla Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bangla_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Bangla Vission
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bangla_visionPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Bijoy Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bijoy_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Boisakhi Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_boishakhi_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Channel 24
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_24PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Channel 9
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_9PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Channel I
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_iPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",DBC News
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_dbc_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Deepto Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_deepto_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Btv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_btv_worldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Desh TV
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_desh_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Duronto Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_duronto_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Ekattor Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ekattor_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Ekhuse Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ekushey_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Gaan Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_gaan_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Independent Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_independent_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Jamuna Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jamuna_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Masranga Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_maasrangaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Mohona Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_mohona_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",My TV
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_my_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Ntv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ntvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Nagorik tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nagorik_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",News 24
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_news_24_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Rtv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_rtvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",SATV
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sa_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Aath
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_aathPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Zee Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_zee_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Star Jalsha
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_jalsha_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Jalsha Movies
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jalsha_moviesPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Colors Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_colors_bangla_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Star Plus
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_plus_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Star Gold
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Star Gold 2
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_movies_okPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Star Bharat
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Sab tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sabPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Max
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_max_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Nick Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nickelodeonPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Songit Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sangeet_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-#EXTINF:-group-title="BINGE BD",Sony Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonyPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sonic Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonicPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",CN
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_cartoon_networkPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Six
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_sixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Ten 1
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_1PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Ten 2
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Ten 3
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_3PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Sony Pix
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_pixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",HBO
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_hboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Music India
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_music_indiaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",WB
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_wbPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Discovery English
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-group-title="BINGE BD",Discovery Bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-group-title="BINGE BD",Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-group-title="BINGE BD",Discovery Kids
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_discovery_kidsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Nat Geo Wild
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nat_geo_wildPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Animal Planet
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_animal_planetPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Peace Tv
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Akash Aath
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_dillagiPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-group-title="BINGE BD",Masti
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_mastiiPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-
-
-
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom (New!)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး" tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom (New!)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
  
-#EXTINF:-1,Thrill (Opt-1)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Thrill (Opt-1)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1,TVKU
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-#EXTINF:-1,EBS KIDS
+#EXTINF:-1 group-title="Cartoon",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1,WAU
+#EXTINF:-1group-title="ဖျော်ဖြေရေး",WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1,Aniplus (Opt-2)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Aniplus (Opt-2)
 http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1,Blue Ant Entertainment (Opt-1)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Blue Ant Entertainment (Opt-1)
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1,Blue Ant Entertainment (Opt-2)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Blue Ant Entertainment (Opt-2)
 http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1,Blue Ant Extreme (Opt-1)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Blue Ant Extreme (Opt-1)
 http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
-#EXTINF:-1,Blue Ant Extreme (Opt-2)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Blue Ant Extreme (Opt-2)
 http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1,Celestial Movies (Opt-1)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Celestial Movies (Opt-1)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1,CinemaWorld (Opt-1)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",CinemaWorld (Opt-1)
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
-#EXTINF:-1,CinemaWorld (Opt-2)
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",CinemaWorld (Opt-2)
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,Foodie
