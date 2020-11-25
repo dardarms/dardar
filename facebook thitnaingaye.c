@@ -167,8 +167,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1  group-title="ဖျော်ဖြေရေး" ,Cinemax MM
-https://d3b9mm4o9vuo42.cloudfront.net/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
+#EXTINF:-1  group-title="ဖျော်ဖြေရေး" ,Cinemax
+https://bit.ly/33cF00m
 
 
 
@@ -182,10 +182,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Cartoon",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
-#EXTINF:-1  group-title="Cartoon",Cartoon Network MM
-https://d3b9mm4o9vuo42.cloudfront.net//live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+#EXTINF:-1  group-title="Cartoon",ကားတ္န်း Network
+https://bit.ly/3l73Hl0
 
-#EXTINF:-1  group-title="Cartoon",Nickelodeon MM
+#EXTINF:-1  group-title="Cartoon",နက်elodeon
 https://df2rtcuwip1h0.cloudfront.net//live/54d06d1f-43a1-4095-ac3d-286d6ba510c1/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1  group-title="Cartoon",DreamWorks TV
