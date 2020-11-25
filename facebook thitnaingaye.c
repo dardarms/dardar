@@ -464,34 +464,7 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133276
 #EXTINF:-1 group-title="test",Sky DAZN SAT FHD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133275
 
-#EXTINF:-1 group-title="test",DAZN 1 SD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133314
-#EXTINF:-1 group-title="test",DAZN 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133315
-#EXTINF:-1 group-title="test",DAZN 1 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133316
-#EXTINF:-1 group-title="test",DAZN 2 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133313
-#EXTINF:-1 group-title="test",DAZN 3 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133312
-#EXTINF:-1 group-title="test",DAZN 4 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133311
-#EXTINF:-1 group-title="test",DAZN 5 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133310
-#EXTINF:-1 group-title="test",DAZN 6 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133309
-#EXTINF:-1 group-title="test",DAZN 7 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133308
-#EXTINF:-1 group-title="test",DAZN 8 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133307
-#EXTINF:-1 group-title="test",DAZN 9 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133306
-#EXTINF:-1 group-title="test",DAZN 10 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133305
-#EXTINF:-1 group-title="test",DAZN 11 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133304
-#EXTINF:-1 group-title="test",DAZN 12 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
+
 
 
 
