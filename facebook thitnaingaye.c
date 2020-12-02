@@ -168,7 +168,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1  group-title="ဖျော်ဖြေရေး" ,Cinemax
-https://d3b9mm4o9vuo42.cloudfront.net/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/mmcine
 
 
 
@@ -183,22 +183,22 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Cartoon",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
 #EXTINF:-1  group-title="Cartoon",ကားတ္န်းNetwork
-https://d3b9mm4o9vuo42.cloudfront.net//live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/cartoonnetwork
 
 #EXTINF:-1  group-title="Cartoon",နက်elodeon
 https://df2rtcuwip1h0.cloudfront.net//live/54d06d1f-43a1-4095-ac3d-286d6ba510c1/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1  group-title="Cartoon",DreamWorks TV
-https://d3b9mm4o9vuo42.cloudfront.net/live/574586ab-d006-4794-a04f-2d89a12049c2/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/nielodeon
 
 #EXTINF:-1  group-title="Cartoon",Boomerang
-https://d3b9mm4o9vuo42.cloudfront.net//live/e39f1b59-d221-45fe-ab89-e6856ee5c31c/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/boomerang
 
 #EXTINF:-1  group-title="Cartoon",CBeebies
-https://d15yubay3yee43.cloudfront.net//live/55dd1535-d7e2-4658-9c0e-d8a52149ebd0/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/cbeebies
 
 #EXTINF:-1  group-title="Cartoon",Baby TV
-https://d15yubay3yee43.cloudfront.net/live/c0fca3c0-a4f0-496a-862a-ab708218c2ec/prod/gidlean/progress-playlist.m3u8
+https://short.absidev.com/babytv
 
 
 
@@ -216,253 +216,6 @@ http://admdn5.cdn.mangomolo.com:80/adsports2/smil:adsports2.stream.smil/chunklis
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="test",Rai 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36932
-#EXTINF:-1 group-title="test",RAI 1 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/50753
-#EXTINF:-1 group-title="test",Rai 2 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36933
-#EXTINF:-1 group-title="test",RAI 2 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133362
-#EXTINF:-1 group-title="test",Rai 3 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36934
-#EXTINF:-1 group-title="test",RAI 3 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133363
-#EXTINF:-1 group-title="test",Rai 4 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36911
-#EXTINF:-1 group-title="test",RAI 4 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133364
-#EXTINF:-1 group-title="test",RAI 5 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133365
-#EXTINF:-1 group-title="test",Rai Gulp HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36913
-#EXTINF:-1 group-title="test",RAI GULP FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133366
-#EXTINF:-1 group-title="test",Rai Scuola HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36916
-#EXTINF:-1 group-title="test",RAI SCUOLA FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133370
-#EXTINF:-1 group-title="test",Rai Movie HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36914
-#EXTINF:-1 group-title="test",RAI MOVIE FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133367
-#EXTINF:-1 group-title="test",Rai Premium HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36915
-#EXTINF:-1 group-title="test",RAI PREMIUM FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133369
-#EXTINF:-1 group-title="test",RAI NEWS 24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4956
-#EXTINF:-1 group-title="test",RAI NEWS 24 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133368
-#EXTINF:-1 group-title="test",RAI STORIA HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/50757
-#EXTINF:-1 group-title="test",RAI STORIA FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133372
-#EXTINF:-1 group-title="test",RAI YOYO HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/50758
-#EXTINF:-1 group-title="test",RAI YOYO FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133373
-#EXTINF:-1 group-title="test",Canale 5 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36929
-#EXTINF:-1 group-title="test",CANALE 5 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133361
-#EXTINF:-1 group-title="test",HSE 24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36926
-#EXTINF:-1 group-title="test",Italia 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/36930
-#EXTINF:-1 group-title="test",ITALIA 1 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133375
-#EXTINF:-1 group-title="test",RETE 4 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/37697
-#EXTINF:-1 group-title="test",RETE 4 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133376
-#EXTINF:-1 group-title="test",LA 5 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4969
-#EXTINF:-1 group-title="test",LA 7 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4987
-#EXTINF:-1 group-title="test",LA 7d HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4904
-#EXTINF:-1 group-title="test",RSI LA 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133240
-#EXTINF:-1 group-title="test",RSI LA 2 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133241
-#EXTINF:-1 group-title="Cartoon",Cartoonito HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/128607
-#EXTINF:-1 group-title="test",Disney Channel HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133232
-#EXTINF:-1 group-title="test",Boing HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/128606
-#EXTINF:-1 group-title="test",History HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133236
-#EXTINF:-1 group-title="test",History Channel HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/11591
-#EXTINF:-1 group-title="test",History FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133267
-#EXTINF:-1 group-title="test",Discovery Science HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133235
-#EXTINF:-1 group-title="test",Discovery Channel HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133234
-#EXTINF:-1 group-title="test",Crime Investigation HD IT 
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133233
-#EXTINF:-1 group-title="test",DISCOVERY  FOCUS HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/11592
-#EXTINF:-1 group-title="test",NAT GEO WILD HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/11590
-#EXTINF:-1 group-title="test",Discovery Channel FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133266
-#EXTINF:-1 group-title="test",Discovery SCI FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133265
-#EXTINF:-1 group-title="test",NAT GEO WILD FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133264
-#EXTINF:-1 group-title="test",NAT GEOGRAPHIC FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133263
-#EXTINF:-1 group-title="test",(IT) SUPER
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4909
-#EXTINF:-1 group-title="test",TGCOM24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4943
-#EXTINF:-1 group-title="test",(IT) TOP FOX CRIME
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4945
-#EXTINF:-1 group-title="test",GAMBERO ROSSO FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133268
-#EXTINF:-1 group-title="test",RADIO KISS KISS TV FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133379
-#EXTINF:-1 group-title="test",RADIO ITALIA TV FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133378
-#EXTINF:-1 group-title="test",RADIO ITALIA TREND TV FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133377
-#EXTINF:-1 group-title="test",GRANDE FRATELLO REGIA 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133286
-#EXTINF:-1 group-title="test",GRANDE FRATELLO REGIA 2 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133287
-#EXTINF:-1 group-title="test",GRANDE FRATELLO UN ORA FA HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133288
-#EXTINF:-1 group-title="test",HORSE TV FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133285
-#EXTINF:-1 group-title="test",UNIRESAT FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133284
-#EXTINF:-1 group-title="test",(IT) PREMIUM STORIES  24
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4932
-#EXTINF:-1 group-title="test",(IT) PREMIUM ACTION   24
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4928
-#EXTINF:-1 group-title="test",(IT) PREMIUM ACTION HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4929
-#EXTINF:-1 group-title="test",Mediaset Iris HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/128608
-#EXTINF:-1 group-title="test",20 MEDIASET HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/37672
-#EXTINF:-1 group-title="test",20 MEDIASET FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133374
-#EXTINF:-1 group-title="test",Sky Cinema Atlantic HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133239
-#EXTINF:-1 group-title="test",Sky Cinema Suspens HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133230
-#EXTINF:-1 group-title="test",Sky Cinema Action HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133229
-#EXTINF:-1 group-title="test",Sky Cinema Due HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133228
-#EXTINF:-1 group-title="test",Sky Cinema Drama FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133227
-#EXTINF:-1 group-title="test",Sky Cinema Uno +24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133226
-#EXTINF:-1 group-title="test",Sky Cinema Uno HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133225
-#EXTINF:-1 group-title="test",(IT) SKY CINEMA COMEDY HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4992
-#EXTINF:-1 group-title="test",SKY CINEMA FAMILY HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4990
-#EXTINF:-1 group-title="test",(IT) SKY CINEMA Comedy HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4989
-#EXTINF:-1 group-title="test",Sky Cinema Due +24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4991
-#EXTINF:-1 group-title="test",SKY CINEMA ROMANCE HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4941
-#EXTINF:-1 group-title="test",Sky Cinema Drama HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4924
-#EXTINF:-1 group-title="test",(IT) SKY PRIMAFILA 1 HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4907
-#EXTINF:-1 group-title="test",(IT) SKY PRIMAFILA 2 HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4906
-#EXTINF:-1 group-title="test",(IT) SKY PRIMAFILA 3 HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4905
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 1
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134339
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 2
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134338
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 3
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134337
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 4
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134336
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 5
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134335
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 6
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134334
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 7
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134333
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 9
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134332
-#EXTINF:-1 group-title="test",IT: EU Cinema Select 10
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134331
-#EXTINF:-1 group-title="test",TORINO CHANNEL HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133282
-#EXTINF:-1 group-title="test",INTER MILAN HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133281
-#EXTINF:-1 group-title="test",ROMA HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133280
-#EXTINF:-1 group-title="test",Milan TV HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133279
-#EXTINF:-1 group-title="test",juventus TV HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133278
-#EXTINF:-1 group-title="test",Calcio 24 Napoli HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133277
-#EXTINF:-1 group-title="SP",Super Tenis HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133237
-#EXTINF:-1 group-title="SP",RAI SPORT + HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4951
-#EXTINF:-1 group-title="SP",RAI SPORT + FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133371
-#EXTINF:-1 group-title="SP",EUROSPORT 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4913
-#EXTINF:-1 group-title="SP",EUROSPORT 2 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133231
-#EXTINF:-1 group-title="SP",Sky Sport 24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133217
-#EXTINF:-1 group-title="SP",Sky Sport NBA HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133238
-#EXTINF:-1 group-title="SP",Sky Sport Uno FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23703
-#EXTINF:-1 group-title="SP",Sky Sport Football FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23704
-#EXTINF:-1 group-title="test",Sky SuperCalcio serie A HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133224
-#EXTINF:-1 group-title="test",TOP CALCIO 24 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133283
-#EXTINF:-1 group-title="test",Sky Calcio 1 HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133218
-#EXTINF:-1 group-title="test",Sky Calcio 1 FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133269
-#EXTINF:-1 group-title="test",Sky Calcio 2 HD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133219
-#EXTINF:-1 group-title="test",Sky Calcio 2 FHD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133270
-#EXTINF:-1 group-title="test",Sky Calcio 3 HD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133220
-#EXTINF:-1 group-title="test",Sky Calcio 3 FHD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133271
-#EXTINF:-1 group-title="test",Sky Calcio 4 HD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133221
-#EXTINF:-1 group-title="test",Sky Calcio 4 FHD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133272
-#EXTINF:-1 group-title="test",Sky Calcio 5 HD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133222
-#EXTINF:-1 group-title="test",Sky Calcio 5 FHD IT (MatchTime)
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133273
-#EXTINF:-1 group-title="test",VETRINA DAZN FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133274
-#EXTINF:-1 group-title="test",Sky DAZN SAT HD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133276
-#EXTINF:-1 group-title="test",Sky DAZN SAT FHD IT
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133275
 
 
 
@@ -534,7 +287,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxyOKpj.jpg" group-title="HBO", Red by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8s
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 SD
 https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
@@ -730,7 +483,8 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein sports xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-
+#EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein Hd 1
+https://short.absidev.com/beinhd1
 
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sport", Premier Football SD 1
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
@@ -1705,7 +1459,7 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES (Free)",Cinemax 
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+https://short.absidev.com/mmcine
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="WORLD MOVIES (Free)",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8?@amarnettv.live
@@ -2048,7 +1802,6 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 #EXTINF:-1,Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
 
 
 
