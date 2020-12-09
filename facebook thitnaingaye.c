@@ -483,7 +483,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein sports xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein Hd 1
+#EXTINF:-1  group-title="BeinSports", bein Hd 1
 https://short.absidev.com/beinhd1
 
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sport", Premier Football SD 1
@@ -1539,12 +1539,16 @@ http://162.244.81.145:2215/live/livestream/playlist.m3u8?@amarnettv.live
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="RELGIOUS (Free)",Shubhsandesh
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS (Free)",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS (Free)",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png" group-title="KIDS (Free)",Disney XD
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS (Free)",BBC Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS (Free)",ANIMAX
@@ -1775,33 +1779,27 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 #EXTINF:-1 group-title="ဖျော်ဖြေရေး",CinemaWorld (Opt-2)
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Hits (Opt-1)
+
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Hits (Opt-1)
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1,Inspira TV
-http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1,J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-#EXTINF:-1,JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1,K Drama (Opt-1)
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,K Drama (Opt-2)
-http://210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,K Drama (Opt-3)
-http://45.126.83.51/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1,K Drama (Opt-4)
-http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
-#EXTINF:-1,K Plus (Opt-1)
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,K Plus (Opt-2)
-http://45.126.83.51/uq2663/h/h08/index.m3u8
-#EXTINF:-1,Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
+
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Drama (Opt-1)
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Drama (Opt-2)
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Drama (Opt-3)
+http://45.126.83.51/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Drama (Opt-4)
+http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Plus (Opt-1)
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",K Plus (Opt-2)
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 
