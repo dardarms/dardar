@@ -168,7 +168,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1  group-title="ဖျော်ဖြေရေး" ,Cinemax
-https://short.absidev.com/mmcine
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
 
 
 
@@ -182,23 +182,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Cartoon",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
-#EXTINF:-1  group-title="Cartoon",ကားတ္န်းNetwork
-https://short.absidev.com/cartoonnetwork
 
-#EXTINF:-1  group-title="Cartoon",နက်elodeon
-https://df2rtcuwip1h0.cloudfront.net//live/54d06d1f-43a1-4095-ac3d-286d6ba510c1/prod/gidlean/progress-playlist.m3u8
 
-#EXTINF:-1  group-title="Cartoon",DreamWorks TV
-https://short.absidev.com/nielodeon
 
-#EXTINF:-1  group-title="Cartoon",Boomerang
-https://short.absidev.com/boomerang
-
-#EXTINF:-1  group-title="Cartoon",CBeebies
-https://short.absidev.com/cbeebies
-
-#EXTINF:-1  group-title="Cartoon",Baby TV
-https://short.absidev.com/babytv
 
 
 
@@ -1459,7 +1445,7 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES (Free)",Cinemax 
-https://short.absidev.com/mmcine
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="WORLD MOVIES (Free)",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8?@amarnettv.live
@@ -1801,5 +1787,4 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="ဖျော်ဖြေရေး",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
 
